@@ -1,0 +1,19 @@
+/* Admin summary */
+.bg-dark-green {
+  background-color: #008080; /* Dark Green color */
+}
+
+.bg-approved-green {
+  background-color: #28a745; /* A nice shade of green */
+}
+
+/*sidebar */
+#navlink {
+  transition: all 0.3 ease-in-out;
+}
+
+#navlink:hover {
+  background-color: #004d67; /* Darker shade of the background */
+  transform: scale(1.05); /* Slight scale on hover */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Light shadow effect */
+}
